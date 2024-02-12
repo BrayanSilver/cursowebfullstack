@@ -1,0 +1,8 @@
+body{background-color: rgb(204, 211, 211);}
+.minhafoto{
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: 7px;
+    padding: 5px;
+}
